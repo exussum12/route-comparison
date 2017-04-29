@@ -7,18 +7,18 @@ and extended
 
 Results
 
-FastRoute first route: 0.272814
-FastRoute last route: 0.856128
-FastRoute unknown route: 0.759076
+FastRoute first route: 0.272814  
+FastRoute last route: 0.856128  
+FastRoute unknown route: 0.759076  
 
-Phruit first route: 0.459752
-Phruit last route: 0.475193
-Phruit unknown route: 0.308298
+Phruit first route: 0.459752  
+Phruit last route: 0.475193  
+Phruit unknown route: 0.308298  
 
-Symphony first route: 1.321943
-Symphony last route: 20.058458
-Symphony unknown route: 19.971658
+Symphony first route: 1.321943  
+Symphony last route: 20.058458  
+Symphony unknown route: 19.971658  
 
-Laravel first route: 35.162726
-Laravel last route: 118.137511
-Laravel unknown route: 190.032275
+Laravel first route: 35.162726  
+Laravel last route: 118.137511  
+Laravel unknown route: 190.032275  
