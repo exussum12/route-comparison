@@ -1,0 +1,10 @@
+{
+    "require": {
+        "nikic/fast-route": "^1.2",
+        "exussum12/phruit": "dev-master",
+        "symfony/routing": "^3.2",
+        "illuminate/routing": "^5.4",
+        "illuminate/events": "^5.4"
+    },
+    "minimum-stability": "dev"
+}
